@@ -1,0 +1,28 @@
+{
+  "name": "Stacked Bar - DevExtreme Charts",
+  "main": "src/app/app.component.ts",
+  "description": "This demo illustrates the use of the stacked bar series type. Unlike side-by-side bar charts, this series is able to present both the proportion and the total value for each data category using rectangular bars stacked on top of one another.\n",
+  "dependencies": {
+    "zone.js": "0.10.2",
+    "tslib": "2.1.0",
+    "rxjs": "6.4.0",
+    "rrule": "2.6.6",
+    "preact": "10.5.13",
+    "luxon": "1.26.0",
+    "jszip": "3.6.0",
+    "es6-object-assign": "1.1.0",
+    "devextreme-quill": "0.10.3",
+    "devextreme-angular": "20.2.6",
+    "devextreme": "20.2.6",
+    "devexpress-gantt": "2.0.24",
+    "devexpress-diagram": "2.0.18",
+    "core-js": "2.4.1",
+    "@angular/router": "8.0.0",
+    "@angular/platform-browser-dynamic": "8.0.0",
+    "@angular/platform-browser": "8.0.0",
+    "@angular/forms": "8.0.0",
+    "@angular/core": "8.0.0",
+    "@angular/compiler": "8.0.0",
+    "@angular/common": "8.0.0"
+  }
+}
